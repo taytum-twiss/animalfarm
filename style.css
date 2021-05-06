@@ -8,6 +8,7 @@ body {
   div{
     display: flex;
     justify-content: center;
+    font-weight: bold;
     margin: 85px;
     margin-top: 0px;
     margin-bottom: 0px;
@@ -15,8 +16,10 @@ body {
   h1{
     text-align: center;
     display: block;
+    font-weight: bolder;
     margin-bottom: 20px;
   }
+
   .catObject {
     background-color: lightblue;
     border: solid black 4px;

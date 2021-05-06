@@ -1,4 +1,4 @@
-'use strict';
+'use strict'
 
 function Animal(animalName) {
   this.animalName = animalName;
