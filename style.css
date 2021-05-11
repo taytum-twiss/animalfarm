@@ -5,6 +5,17 @@ body {
     display: flex;
     justify-content: center;
   }
+  .make{
+    padding: 10px;
+    height: 100px;
+    width: 100px;
+    background-color: lightgray;
+    border: solid black 2px;
+    margin: 10px;
+    border-radius: 50%;
+    margin: auto;
+    text-align: center;
+  }
   div{
     display: flex;
     justify-content: center;
